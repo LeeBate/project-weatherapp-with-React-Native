@@ -1,1 +1,1 @@
-# project
+This project is a project titled PROJECT IN SCRIPTING LANGUAGE APPLICATION DEVELOPMENT at Suranaree University of Technology. Digital Technology It will be an application about telling the climate. Developed with React Native Frameworkwork
